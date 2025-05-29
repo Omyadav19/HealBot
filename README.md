@@ -8,7 +8,7 @@
 Python | Django | React | Hugging Face | FAISS
 
 ### 🚀 Top Projects
-- [AI Therapist Chatbot](https://github.com/alex/ai-therapist)
+- [Rider-vehicle-Indicator](https://github.com/Omyadav19/Rider-vehicle-Indicator)
 - [Offline RAG System](https://github.com/alex/offline-rag)
 
 
