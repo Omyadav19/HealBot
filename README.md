@@ -9,6 +9,6 @@ Python | Django | React | Hugging Face | FAISS
 
 ### 🚀 Top Projects
 - [Rider-vehicle-Indicator](https://github.com/Omyadav19/Rider-vehicle-Indicator)
-- [Offline RAG System](https://github.com/alex/offline-rag)
+
 
 
