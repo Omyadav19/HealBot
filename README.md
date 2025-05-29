@@ -34,3 +34,9 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
 python manage.py runserver
+
+```
+---
+Thank you for visiting this project!  
+If you found it helpful, please ⭐️ the repo and connect with me:  
+🔗 [GitHub](https://github.com/Omyadav19) | 🔗 [LinkedIn](https://linkedin.com/in/Omyadav19)
