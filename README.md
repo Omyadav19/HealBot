@@ -1,14 +1,36 @@
-### 👋 Hi, I'm Om
+# 🤖 AI Therapist Chatbot
 
-- 🔭 Building AI-powered tools with Python & Django
-- 💡 Interested in NLP, chatbots, and offline AI
-- 📫 Reach me: omryadav9@gmail.com
+A therapy-style AI chatbot built using Django and Hugging Face API. It generates human-like supportive responses and summarizes them before displaying in a simple, modern chat UI.
 
-### ⚙️ Tech Stack
-Python | Django | React | Hugging Face | FAISS
+---
 
-### 🚀 Top Projects
-- [Rider-vehicle-Indicator](https://github.com/Omyadav19/Rider-vehicle-Indicator)
+## 💡 Features
 
+- Therapist-style responses using Hugging Face API
+- Summarized replies (short and clear)
+- Clean and modern UI with typing animation
+- Chat history saved locally
+- API-based (Totally online)
 
+---
 
+## 🛠️ Built With
+
+- Python + Django
+- Hugging Face Inference API (Text Generation + Summarization)
+- HTML, CSS, JavaScript (Frontend)
+- SQLite-XAMMP server (for saving chat history)
+
+---
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/yourusername/ai-therapist-chatbot.git
+cd ai-therapist-chatbot
+
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+pip install -r requirements.txt
+python manage.py runserver
